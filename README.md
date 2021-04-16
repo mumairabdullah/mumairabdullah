@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mumairabdullah
 - 👀 I’m interested in ... Small Projects in Linux and Cisco Envoirnment 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently ...working as a NOC Engineer
+- 💞️ I’m looking to collaborate on ... learning path
 - 📫 How to reach me ...+92 333 4567802 or at umair@cyberlink.net.pk  
 
 <!---
